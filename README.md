@@ -1,1 +1,1 @@
-# earthwonders..github.io
+# earthwonders.github.io
